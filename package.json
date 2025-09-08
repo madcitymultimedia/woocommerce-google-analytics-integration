@@ -9,7 +9,7 @@
     "url": "git://github.com/woocommerce/woocommerce-google-analytics-integration.git"
   },
   "devDependencies": {
-    "node-wp-i18n": "~1.2.3",
+    "node-wp-i18n": "~1.2.8",
     "uglify-js": "^3.6.0"
   },
   "assets": {
